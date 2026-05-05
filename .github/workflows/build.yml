@@ -87,7 +87,7 @@ jobs:
                           Text("WINHUB").font(.system(size: 50, weight: .black)).foregroundColor(.blue)
                           Text("Status: System Operational").foregroundColor(.green)
                           Spacer()
-                          Text("Pro Max Environment Ready").foregroundColor(.white)
+                          Text("Sifat, 15 Pro Max Environment Ready").foregroundColor(.pink)
                       }
                       .padding()
                   }
